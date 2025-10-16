@@ -3,21 +3,20 @@ What is this?
 A Unity decompilation of Plants vs. Goblins 1 using Asset Ripper!
 
 Q/A
------
+----------
 Q: Why did you make this?
-
 A: I mostly did because of funny reasons, but also to make an easy excuse to upload my first  Unity decompilation on github.
---
+
+
 Q: Was this hard?
-
 A: No it wasn't, other than a handful of google play games related errors, it was instantly working in the editor!
---
+
+
 Q: Do you plan on updating this?
-
 A: No.
---
-Q: Legal stuff?
 
+
+Q: Legal stuff?
 A: Well considering that even on newer versions of the game, they don't even use IL2CPP, i'll assume that they won't care about this (hopefully). EA might though.
 
 
