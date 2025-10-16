@@ -14,7 +14,7 @@ Q: Do you plan on updating this?
 A: No.
 
 Q: Legal stuff?
-A: Well considering that even on newer versions of the game, they don't even use IL2CPP, i'll assume that they won't care about this (hopefully). EA might though.
+A: Well considering that even on newer versions of the game, they don't even use IL2CPP (a code obfuscation method used by most big and even small companies) , i'll assume that they won't care about this (hopefully). EA might though.
 
 
 Tools Used
