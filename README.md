@@ -1,8 +1,9 @@
-*What is this*
+What is this
+---------------
 A decompilation of Plants vs. Goblins 1 using Asset Ripper!
 
-*Q/A*
-
+Q/A
+-----
 Q: Why did you make this?
 A: I mostly did because of funny reasons, but also to make an easy excuse to upload my first  Unity decompilation on github.
 
