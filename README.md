@@ -1,6 +1,6 @@
 What is this?
 ---------------
-A Unity decompilation of Plants vs. Goblins 1 using Asset Ripper!
+A Unity decompilation of Plants vs. Goblins 1 using AssetRipper!
 
 Q/A
 ----------
