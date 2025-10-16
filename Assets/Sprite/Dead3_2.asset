@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Dead3
+  m_Rect:
+    serializedVersion: 2
+    x: 109.07612
+    y: 3.0597284
+    width: 299.84778
+    height: 380.86417
+  m_Offset: {x: -3.000003, y: 62.508183}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.4899949, y: 0.664122}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    serializedVersion: 2
+    texture: {fileID: 2800000, guid: 6838d6d2aa9f7c841b9d91b204806c15, type: 3}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 87
+      topology: 0
+      firstVertex: 0
+      vertexCount: 31
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 1e001d001c001a001c001d001b001c001a0018001b001a00190018001a0011001800190017001800110010001700110016000e000d001500140011001300110014001200110013000f0011001200100011000f000e0010000f000c000e000f000d000e000c000b000d000c000a000b000c0009000b000a00070009000a00080009000700050008000700060005000700040005000600030005000400000003000400010003000000020001000000
+    m_VertexData:
+      m_CurrentChannels: 9
+      m_VertexCount: 31
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 12
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 620
+      _typelessdata: ae47c13fc3f5283f0000000000000000000000000ad7c33f0000003f0000000000000000000000000ad7c33f6666263f000000000000000000000000f628bc3fec51b8be000000000000000000000000b81ea53fc3f5283f000000000000000000000000f6289c3f713d4abf0000000000000000000000007b148e3f0ad7233f000000000000000000000000713d0a3f85eb913f000000000000000000000000ae47e13e5c8f02c00000000000000000000000007b14ae3eae4721c00000000000000000000000009a99993e0ad7a33f0000000000000000000000000ad723bd7b141ec00000000000000000000000007b14aebe0ad7a33f000000000000000000000000a470bdbed7a320c0000000000000000000000000000000bf000000c000000000000000000000000085eb11bfe17a943f0000000000000000000000001f856bbf295c1fc0000000000000000000000000ec5178bfcdcc0cbf0000000000000000000000007b148ebfae47813f0000000000000000000000001f85abbfcdcc8c3f0000000000000000000000008fc2b5bf0ad7633f0000000000000000000000003d0ab7bf295c8fbd0000000000000000000000005c8f02bf3d0a17c0000000000000000000000000a4707dbf85eb21c0000000000000000000000000d7a390bf85eb21c0000000000000000000000000333393bf666666bf0000000000000000000000000ad7a3bf1f85cbbf000000000000000000000000c3f5a8bfb81e15c0000000000000000000000000d7a3b0bf52b80ec0000000000000000000000000f628bcbf48e1fabf000000000000000000000000f628bcbf8fc205c0000000000000000000000000
+    textureRect:
+      serializedVersion: 2
+      x: 109.07612
+      y: 3.0597284
+      width: 299.84778
+      height: 380.86417
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 256, z: 100, w: 256}
