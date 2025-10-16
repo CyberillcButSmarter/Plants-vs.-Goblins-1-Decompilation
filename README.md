@@ -26,4 +26,4 @@ Stuff you'll have to use
 -----------------
 Unity 2021.3 (Before the Security Fix but it'll still work): https://download.unity3d.com/download_unity/88f88f591b2e/Windows64EditorInstaller/UnitySetup64-2021.3.45f2.exe
 
-Github Desktop: https://desktop.github.com
+Github Desktop (Because it allows cloning repos using git lfs): https://desktop.github.com
